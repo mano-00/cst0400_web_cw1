@@ -33,7 +33,7 @@ Other notable features:
 - GitHub Pages
 
 ## Live Website
-https://kokomanoisgay.github.io/
+https://mano-00.github.io/
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
