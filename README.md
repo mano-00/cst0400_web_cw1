@@ -33,7 +33,7 @@ Other notable features:
 - GitHub Pages
 
 ## Live Website
-https://mano-00.github.io/
+[https://mano-00.github.io/](https://github.com/mano-00/cst0400_web_cw1)
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
